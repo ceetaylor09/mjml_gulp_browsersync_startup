@@ -16,18 +16,22 @@ Included in this project are the following:
 
 Install them by typing:
 
+```npm intall```
 
-$ npm intall
 
 
 
 When starting a new email project type:
-"npm run start" 
+
+```npm run start```
+
 
 When it's time to build the email into production type:
-"npm run build" 
+
+```npm run build```
+ 
 
 
-Thanks and happy coding.
+Thanks for visiting and happy coding.
 
 
