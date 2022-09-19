@@ -1,0 +1,23 @@
+<mjml>
+	<mj-head>
+		<mj-font name="Martel Sans" href="https://fonts.googleapis.com/css?family=Martel Sans:wght@200;400;600;700;900&display=swap" />
+			<mj-style>
+			    .header-text {
+			    	border: 4px solid #ffffff;
+			    }
+			</mj-style>
+		</mj-head>
+
+	<mj-body background-color="#f1f1f1">
+	    <mj-section background-color="#000000" padding="40px">
+	        <mj-raw>
+	        	<!-- Header -->
+	        </mj-raw>
+	        <mj-column width="100%">
+	            <mj-text mc:edit="title" align="center" css-class="header-text" font-size="50px" font-family="Martel Sans" color="#ffffff" font-weight="900" padding="20px" padding-top="30px">
+	                Header Text
+	            </mj-text>
+	        </mj-column>
+	    </mj-section>
+	</mj-body>
+</mjml>
