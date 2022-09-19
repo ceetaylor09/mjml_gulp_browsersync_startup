@@ -1,0 +1,24 @@
+{
+  "name": "mjml_gulp_browsersync_startup",
+  "version": "1.0.0",
+  "description": "A start-up kit for MJML email projects.",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "start": "rm -r dist/ && gulp",
+    "build": "gulp build"
+  },
+  "author": "Christie Taylor",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.0",
+    "@babel/preset-env": "^7.19.0",
+    "@babel/register": "^7.18.9",
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-mjml": "^4.0.2",
+    "mjml-cli": "^4.13.0",
+    "svgo": "^2.8.0"
+  }
+}
