@@ -1,5 +1,7 @@
+# mjml gulp browsersync startup
 
-Welcome to my start-up kit for creating MJML emails with Gulp and BrowserSync. The purpse is to create a development environment where I can update MJML files and they automatically compile into HTML, while the browser updates just by pressing "Command (or Control) + S". 
+
+Welcome to my start-up kit for creating MJML emails with Gulp and BrowserSync. The purpse is to create a development environment where I can update MJML files and they automatically compile into HTML, while the browser updates just by pressing "Command (or Control) + s". 
 
 There are MJML browser apps out there, however, I want to create my own set-up just in case.
 
